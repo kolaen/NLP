@@ -9,5 +9,6 @@
 # 进行中的课程
 - 台大陈蕴侬老师应用深度学习公开课（2020）
     - Abstract
+ 
          以自然语言处理（NLP）领域为切入点，完整讲解深度学习（神经网络）的工作原理，深入讲解NLP中的具体任务，介绍NLP处理中的范式，eg. BERT
    - [网课链接](https://www.bilibili.com/video/BV1Mi4y1V7A1?p=5)
